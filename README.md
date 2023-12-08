@@ -14,13 +14,13 @@ We provide a sample app using Golang that you can deploy on App Platform. These 
 
 - Click on the **Create App** button located on the top left of the dashboard.
 
-![CreateApp](../assets/createapp.png)
+![CreateApp](./assets/createapp.png)
 
 ## Authorize Your GitHub Repo
 
 - Connect your GitHub repository by authorizing access.
 
-![Resource](../assets/createfromsourcecode.png)
+![Resource](./assets/createfromsourcecode.png)
 
 ## Give Name to the App
 
@@ -32,7 +32,7 @@ We provide a sample app using Golang that you can deploy on App Platform. These 
 
 ## Configure Environment Variables and Ports
 
-![Environment](../assets/env.png)
+![Environment](./assets/env.png)
 
 - Set up environment variables and configure port settings as needed.
 
@@ -44,6 +44,6 @@ We provide a sample app using Golang that you can deploy on App Platform. These 
 
 - Wait for a short amount of time as your app is being created.
 
-![Deploy](../assets/deploy.png)
+![Deploy](./assets/deploy.png)
 
 Once deployed, find your app at the URL displayed on the app's **Overview** page.
