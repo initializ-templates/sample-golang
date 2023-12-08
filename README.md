@@ -4,7 +4,7 @@ We provide a sample app using Golang that you can deploy on App Platform. These 
 
 **Note: Following these steps may result in charges for the use of Initializ services.**
 
-![CreateApp](../assets/createapp.png)
+![CreateApp](./assets/createapp.png)
 
 ### Requirements
 
