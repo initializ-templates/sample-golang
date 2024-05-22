@@ -1,2 +1,1 @@
-# Kubeday
-Demo Kubeday India
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app&fork=initializ-templates/sample-golang&description=test_repo)
