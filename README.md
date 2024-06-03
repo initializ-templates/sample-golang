@@ -1,1 +1,1 @@
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app?fork=initializ-templates/sample-golang&description=test_repo)
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://localhost:3000/create-app/?clone=https://github.com/initializ-templates/sample-golang&repo_name=sample-golang&description=this repo is made just for testing made from test env token&private=false)
